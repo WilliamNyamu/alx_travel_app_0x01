@@ -1,0 +1,1 @@
+## Automating Database Seeding using django-seed or Faker
